@@ -28,7 +28,7 @@ Category: Transportation
 ----------
 Content rating: Low Maturity
 ----------
-Website: https://github.com/mtransitapps/ca-sud-ouest-citrous-bus-android
+Website: https://github.com/mtransitapps/ca-sud-ouest-citso-bus-android
 ----------
 Email: mtransit.apps+GooglePlay@gmail.com
 ----------
