@@ -2,11 +2,17 @@ Title: CIT Sud-Ouest Bus (MonTransit)
 ----------
 Short description: CIT Sud-Ouest bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from January 5, 2015 to January 1, 2020.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/Q3mGDO
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds CIT Sud-Ouest bus information to MonTransit BETA.
+
+CIT Sud-Ouest serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
