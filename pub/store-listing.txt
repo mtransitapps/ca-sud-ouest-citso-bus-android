@@ -1,16 +1,21 @@
-Title: CIT Sud-Ouest Bus (MonTransit)
+Title: CIT Sud-Ouest Bus - MonTransit
 ----------
-Short description: CIT Sud-Ouest bus information for MonTransit BETA.
+Short description:
+CIT Sud-Ouest bus for MonTransit BETA
+Schedules. Tweets from @CitsoInfo
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Schedule from January 5, 2015 to January 1, 2020.
+Tweets from @CitsoInfo
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This application adds CIT Sud-Ouest bus information to MonTransit BETA.
+
+This app contains the bus schedule and the latest news from @CitsoInfo on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 CIT Sud-Ouest serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac.
 
@@ -27,6 +32,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-sud-ouest-citso-bus-android
 
 This app is not related with the Agence Métropolitaine de Transport and CIT Sud-Ouest.
+
+Permissions:
+- Other: required for news (Twitter)
 ----------
 Application type: Applications
 ----------
