@@ -2,10 +2,11 @@ Title: CIT Sud-Ouest Bus - MonTransit
 ----------
 Short description:
 CIT Sud-Ouest bus for MonTransit BETA
-Schedules. Tweets from @CitsoInfo
+Schedules. News.
 ----------
 What's new in this version?:
 Schedule from January 5, 2015 to January 1, 2020.
+News from citso.org.
 Tweets from @CitsoInfo
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
@@ -13,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds CIT Sud-Ouest buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from @CitsoInfo on Twitter.
+This app contains the buses schedule and the latest news from citso.org and @CitsoInfo on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -34,7 +35,7 @@ https://github.com/mtransitapps/ca-sud-ouest-citso-bus-android
 This app is not related with the Agence Métropolitaine de Transport and CIT Sud-Ouest.
 
 Permissions:
-- Other: required for news (Twitter)
+- Other: required for news from citso.org and Twitter.
 ----------
 Application type: Applications
 ----------
