@@ -5,7 +5,7 @@ CIT Sud-Ouest buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from February 29, 2016 to January 1, 2020.
+Schedule from June 25, 2016 to January 1, 2020.
 News from citso.org.
 Tweets from @CitsoInfo
 ----------
