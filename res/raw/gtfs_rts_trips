@@ -2,7 +2,9 @@
 101,0,'Valleyfield',1
 2000,0,'Beauharnois',20
 2001,0,'Melocheville',20
+2101,0,'Châteauguay',21
 2100,0,'Montréal',21
+2201,0,'Châteauguay',22
 2200,0,'Montréal',22
 2301,0,'Châteauguay',23
 2300,0,'Montréal',23
@@ -15,13 +17,16 @@
 2700,0,'Maple / St-Francis',27
 2801,0,'Châteauguay',28
 2800,0,'Montréal',28
-2900,0,'Parc Industriel',29
+2901,0,'Châteauguay',29
+2900,0,'Montréal',29
 3100,0,'Châteauguay',31
 3101,0,'Montréal',31
 3200,0,'Châteauguay',32
 3201,0,'Montréal',32
 3301,0,'Anjou / St-Joseph',33
 3300,0,'Faubourg Châteauguay',33
+9001,0,'Châteauguay',90
+9000,0,'Montréal',90
 9700,0,'Coteaux-du-Lac',97
 9701,0,'St-Zotique',97
 9900,0,'Gare Vaudreuil',99
