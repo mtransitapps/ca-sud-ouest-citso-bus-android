@@ -5,7 +5,7 @@ Autobus CIT Sud-Ouest pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 29 mai 2017 au 1 janvier 2020.
+Horaires du 18 juin 2017 au 1 janvier 2020.
 Nouvelles de citso.org.
 Tweets de @CitsoInfo.
 ----------
