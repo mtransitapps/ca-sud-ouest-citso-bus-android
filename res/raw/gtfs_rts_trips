@@ -14,7 +14,7 @@
 2500,0,'Montréal',25
 2600,0,'Montréal',26
 2701,0,'Higgins / Salaberry',27
-2700,0,'Maple / St-Francis',27
+2700,0,'P+R Châteauguay',27
 2801,0,'Châteauguay',28
 2800,0,'Montréal',28
 2901,0,'Châteauguay',29
@@ -27,7 +27,8 @@
 3300,0,'Faubourg Châteauguay',33
 9001,0,'Châteauguay',90
 9000,0,'Montréal',90
-9700,0,'Coteaux-du-Lac',97
+9700,0,'Coteaux-Du-Lac',97
 9701,0,'St-Zotique',97
+9800,0,'Montréal - Kahnawake',98
 9900,0,'Gare Vaudreuil',99
 9901,0,'Valleyfield',99
