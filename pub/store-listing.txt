@@ -1,20 +1,20 @@
-Title: CIT Sud-Ouest Bus - MonTransit
+Title: RTM (CIT) Sud-Ouest Bus - MonTransit
 ----------
 Short description:
-CIT Sud-Ouest buses for MonTransit.
+RTM (CIT) Sud-Ouest buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
 Schedule from January 25, 2018 to January 1, 2020.
 News from citso.org.
-Tweets from @CitsoInfo
+Tweets from @RTM_Sud_Ouest
 ----------
 Full description:
-This application adds CIT Sud-Ouest buses information to MonTransit.
+This application adds RTM (CIT) Sud-Ouest buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from citso.org and @CitsoInfo on Twitter.
+This app contains the buses schedule and the latest news from citso.org and @RTM_Sud_Ouest on Twitter.
 
-CIT Sud-Ouest serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac.
+RTM (CIT) Sud-Ouest serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -22,13 +22,13 @@ This application only has a temporary icon and no screen: download the MonTransi
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
+The information comes from the GTFS file provided by the Réseau de Transport Métropolitain (AMT).
 https://www.amt.qc.ca/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-sud-ouest-citso-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and CIT Sud-Ouest.
+This app is not related with the Réseau de Transport Métropolitain (AMT) and RTM (CIT) Sud-Ouest.
 
 Permissions:
 - Other: required for news from citso.org and Twitter.

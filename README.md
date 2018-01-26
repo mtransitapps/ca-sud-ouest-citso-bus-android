@@ -1,4 +1,4 @@
-# CIT Sud-Ouest Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# RTM (CIT) Sud-Ouest Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-sud-ouest-citso-bus-android/master/pub/hi-res-app-icon.png"/>
 

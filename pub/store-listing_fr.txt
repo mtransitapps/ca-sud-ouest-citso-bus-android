@@ -1,20 +1,20 @@
-Title: Bus CIT Sud-Ouest - MonTransit
+Title: Bus RTM (CIT) Sud-Ouest - MonTransit
 ----------
 Short description:
-Autobus CIT Sud-Ouest pour MonTransit.
+Autobus RTM (CIT) Sud-Ouest pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 25 janvier 2018 au 1 janvier 2020.
 Nouvelles de citso.org.
-Tweets de @CitsoInfo.
+Tweets de @RTM_Sud_Ouest.
 ----------
 Full description:
-Cette application ajoute les informations des autobus du CIT Sud-Ouest à MonTransit.
+Cette application ajoute les informations des autobus du RTM (CIT) Sud-Ouest à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de citso.org et @CitsoInfo sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de citso.org et @RTM_Sud_Ouest sur Twitter.
 
-Le CIT Sud-Ouest dessert Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux et Coteau-du-Lac.
+Le RTM (CIT) Sud-Ouest dessert Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux et Coteau-du-Lac.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -22,13 +22,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (AMT).
 https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-sud-ouest-citso-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Sud-Ouest.
+Cette application n'est pas associée à le Réseau de Transport Métropolitain (AMT) et RTM (CIT) Sud-Ouest.
 
 Autorisations :
 - Autres: requis pour lire les nouvelles de citso.org et Twitter.
