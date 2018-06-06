@@ -7,12 +7,12 @@ Schedules. News.
 What's new in this version?:
 Schedule from January 25, 2018 to January 1, 2020.
 News from citso.org.
-Tweets from @RTM_Sud_Ouest
+Tweets from @exo_SO_HSL
 ----------
 Full description:
 This application adds RTM (CIT) Sud-Ouest buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from citso.org and @RTM_Sud_Ouest on Twitter.
+This app contains the buses schedule and the latest news from citso.org and @exo_SO_HSL on Twitter.
 
 RTM (CIT) Sud-Ouest serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac.
 

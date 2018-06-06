@@ -7,12 +7,12 @@ Horaires. Nouvelles.
 What's new in this version?:
 Horaires du 25 janvier 2018 au 1 janvier 2020.
 Nouvelles de citso.org.
-Tweets de @RTM_Sud_Ouest.
+Tweets de @exo_SO_HSL.
 ----------
 Full description:
 Cette application ajoute les informations des autobus du RTM (CIT) Sud-Ouest à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de citso.org et @RTM_Sud_Ouest sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de citso.org et @exo_SO_HSL sur Twitter.
 
 Le RTM (CIT) Sud-Ouest dessert Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux et Coteau-du-Lac.
 
