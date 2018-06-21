@@ -5,7 +5,7 @@ Autobus RTM (CIT) Sud-Ouest pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 25 janvier 2018 au 1 janvier 2020.
+Horaires du 24 juin 2018 au 18 août 2018.
 Nouvelles de citso.org.
 Tweets de @exo_SO_HSL.
 ----------
