@@ -7,13 +7,13 @@ Schedules. News.
 What's new in this version?:
 (AMT/CIT => RTM => exo)
 Schedule from August 19, 2018 to January 13, 2019.
-News from citso.org.
+News from rtm.quebec.
 Tweets from @exo_SO_HSL
 ----------
 Full description:
 This application adds exo Sud-Ouest buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from citso.org and @exo_SO_HSL on Twitter.
+This app contains the buses schedule and the latest news from rtm.quebec and @exo_SO_HSL on Twitter.
 
 exo serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac in Québec, Canada.
 
@@ -35,7 +35,7 @@ exo Sud-Ouest was formerly known as RTM Sud-Ouest sector and CIT HSud-Ouest.
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required for news from citso.org and Twitter.
+- Other: required for news from rtm.quebec and Twitter.
 ----------
 Application type: Applications
 ----------
