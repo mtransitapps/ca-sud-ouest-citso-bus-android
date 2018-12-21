@@ -135,8 +135,8 @@
 78132,'78132','St-Jean-Baptiste / Anjou',45.358657,-73.715801
 78133,'78133','St-Joseph / Chénier',45.357996,-73.727665
 78134,'78134','St-Joseph / Chénier',45.356636,-73.728243
-78135,'78135','St-Jean-Baptiste / Stationnement Inc',45.365937,-73.711689
-78136,'78136','St-Jean-Baptiste / Stationnement Inc',45.365547,-73.7117
+78135,'78135','Bl.St-Jean-Baptiste / Face Stationnement Châteauguay',45.365937,-73.711689
+78136,'78136','Bl.St-Jean-Baptiste / Face Stationnement Châteauguay',45.365547,-73.7117
 78137,'78137','St-Jean-Baptiste / Anjou',45.359699,-73.715281
 78138,'78138','Anjou / Yvon',45.358824,-73.71798
 78139,'78139','Salaberry Nord / Ashmore',45.372998,-73.749755
@@ -163,7 +163,7 @@
 78163,'78163','Bernard / Youville',45.379746,-73.753893
 78164,'78164','Robert Ouest / Orchard',45.380752,-73.738833
 78165,'78165','Robert / Orchard',45.380733,-73.738876
-78168,'78168','Stationnement Incitatif De Châteauguay',45.365445,-73.711119
+78168,'78168','Stationnement Incitatif De Châteauguay-Quai 1',45.365445,-73.711119
 78169,'78169','St-Joseph / St-Eugène',45.352271,-73.731585
 78170,'78170','St-Joseph / St-Eugène',45.352303,-73.731604
 78171,'78171','Anjou / St-Joseph',45.359788,-73.727642
@@ -363,6 +363,8 @@
 78445,'78445','St-Jean-Baptiste / Anjou',45.357973,-73.716335
 78447,'78447','Youville / St-Jean',45.374235,-73.754147
 78448,'78448','Route 132 / Énergie',45.313784,-73.898177
+78449,'78449','St-Louis / Riendeau',45.307472,-73.879074
+78450,'78450','St-Louis / Riendeau',45.307786,-73.879351
 78500,'78500','Gérard-Cadieux / IGA',45.306375,-73.863693
 78501,'78501','Gérard-Cadieux / IGA',45.306477,-73.863678
 78502,'78502','Principale / 39e Av.',45.240509,-74.250696
