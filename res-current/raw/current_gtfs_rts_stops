@@ -1,4 +1,5 @@
 16000,'16000','Terminus Mansfield Quai 6',45.497972,-73.564192
+16002,'16002','Terminus Mansfield Quai 5',45.4981,-73.564442
 76557,'76557','Newman / Labatt',45.42728,-73.644449
 77501,'77501','Labatt / Newman',45.427072,-73.644425
 77503,'77503','Newman / Dollard',45.430096,-73.63564
@@ -364,6 +365,7 @@
 78448,'78448','Route 132 / Énergie',45.313784,-73.898177
 78449,'78449','St-Louis / Riendeau',45.307472,-73.879074
 78450,'78450','St-Louis / Riendeau',45.307786,-73.879351
+78452,'78452','1ere Av. / Boul.De Melocheville',45.312427,-73.970833
 78500,'78500','Gérard-Cadieux / IGA',45.306375,-73.863693
 78501,'78501','Gérard-Cadieux / IGA',45.306477,-73.863678
 78505,'78505','Girouard / Youville',45.365617,-73.75473
@@ -541,9 +543,16 @@
 78885,'78885','Faubourg Châteauguay',45.343544,-73.762741
 78892,'78892','Alexandre / Mgr-Langlois',45.268218,-74.138423
 78893,'78893','Prince / St-Joseph',45.355967,-73.728446
+78896,'78896','Cégep André-Laurendeau',45.435141,-73.605037
 78897,'78897','Deguire / Gendron',45.359013,-73.756963
 78898,'78898','Route 132 / Khanata',45.376988,-73.7052
 78899,'78899','Prince / Croissant De Cambrai',45.356266,-73.734021
+78900,'78900','Terminus Angrignon Quai 16',45.446491,-73.605227
+78901,'78901','Terminus Angrignon Quai 15',45.446472,-73.605217
+78902,'78902','Terminus Angrignon Quai 14',45.446455,-73.605206
+78903,'78903','Terminus Angrignon Quai 13',45.446442,-73.605196
+78904,'78904','Terminus Angrignon Quai 12',45.446424,-73.605187
+78905,'78905','Terminus Angrignon Quai 11',45.446408,-73.605177
 1001039,'KAH39A','Catholic Cemetery Road',45.406356,-73.675461
 1001041,'KAH41A','Int 207 / Old Malone Road',45.410749,-73.681339
 1002038,'KAH38B','Route 207 Junction (Sud)',45.40381,-73.672745
