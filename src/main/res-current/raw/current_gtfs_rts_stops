@@ -35,7 +35,7 @@
 78025,'78025','Albert-Einstein / Bruxelles',45.354413,-73.702509
 78026,'78026','Albert-Einstein / Bruxelles',45.354614,-73.702776
 78027,'78027','Ste-Marguerite / Léonard',45.353973,-73.703776
-78028,'78028','Albert-Einstein / Ste-Marguerite',45.35381,-73.704026
+78028,'78028','Albert-Einstein / Léonard',45.35381,-73.704026
 78029,'78029','Gaulle / Ste-Marguerite',45.354153,-73.706968
 78030,'78030','Ste-Marguerite / Fournier',45.354274,-73.706274
 78031,'78031','Gaulle / Bernard',45.352253,-73.707595
@@ -391,7 +391,7 @@
 78529,'78529','St-Louis / Ellice',45.313315,-73.878616
 78530,'78530','Principale / Oscar-Murphy',45.31809,-73.939932
 78531,'78531','François-Branchaud / Faubert',45.326658,-73.830169
-78532,'78532','François-Branchaud / Laurier',45.325445,-73.832928
+78532,'78532','François-Branchaud / Laurier',45.325435,-73.833306
 78533,'78533','François-Branchaud / MacDonald',45.324211,-73.83589
 78534,'78534','François-Branchaud / Pointe-Dickner',45.322391,-73.839687
 78535,'78535','François-Branchaud / Pointe-Raoul-Hébert',45.321803,-73.840662
@@ -430,7 +430,7 @@
 78572,'78572','François-Branchaud / Hébert',45.321443,-73.841111
 78573,'78573','François-Branchaud / Gare',45.322085,-73.839823
 78574,'78574','François-Branchaud / MacDonald',45.324178,-73.835913
-78575,'78575','François-Branchaud / Laurier',45.325296,-73.833078
+78575,'78575','François-Branchaud / Laurier',45.324692,-73.834533
 78586,'78586','St-Laurent / Ste-Catherine',45.315482,-73.87302
 78587,'78587','St-Laurent / St-Louis',45.314821,-73.878479
 78588,'78588','St-Laurent / Beauce',45.316105,-73.871657
