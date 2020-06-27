@@ -130,6 +130,7 @@
 78126,'78126','St-Jean-Baptiste / St-Francis',45.367864,-73.710515
 78127,'78127','St-Francis / St-Jean-Baptiste',45.368389,-73.710712
 78128,'78128','St-Francis / St-Jean-Baptiste',45.368834,-73.712612
+78129,'78129','Principale / Place Léonie-Paradis',45.354787,-73.770166
 78130,'78130','Principale / McComber',45.359691,-73.751195
 78131,'78131','Principale / McComber',45.35938,-73.751789
 78132,'78132','St-Jean-Baptiste / Anjou',45.358746,-73.715664
@@ -390,7 +391,6 @@
 78528,'78528','St-Louis / St-Joseph',45.310855,-73.878068
 78529,'78529','St-Louis / Ellice',45.313315,-73.878616
 78530,'78530','Principale / Oscar-Murphy',45.31809,-73.939932
-78531,'78531','François-Branchaud / Faubert',45.326658,-73.830169
 78532,'78532','François-Branchaud / Laurier',45.325435,-73.833306
 78533,'78533','François-Branchaud / MacDonald',45.324211,-73.83589
 78534,'78534','François-Branchaud / Pointe-Dickner',45.322391,-73.839687
@@ -443,7 +443,6 @@
 78595,'78595','21e Av. / Charlebois',45.316936,-73.942925
 78596,'78596','21e Av. / Charlebois',45.316811,-73.942708
 78597,'78597','21e Av. / Principale',45.318119,-73.943048
-78598,'78598','François-Branchaud / Faubert',45.326545,-73.830165
 78599,'78599','Principale / Charlebois',45.31811,-73.935453
 78600,'78600','Principale / Bourcier',45.31792,-73.933693
 78601,'78601','Principale / Devant Le #210',45.316898,-73.92923
@@ -542,7 +541,6 @@
 78897,'78897','Deguire / Gendron',45.359077,-73.757058
 78898,'78898','Route 138 / Devant Le #1500',45.376988,-73.7052
 78899,'78899','Prince / Croissant De Cambrai',45.356238,-73.734137
-78900,'78900','Terminus Angrignon Quai 16',45.446491,-73.605227
 78901,'78901','Terminus Angrignon Quai 15',45.446472,-73.605217
 78902,'78902','Terminus Angrignon Quai 14',45.446455,-73.605206
 78903,'78903','Terminus Angrignon Quai 13',45.446442,-73.605196
@@ -553,19 +551,3 @@
 78919,'78919','Prince / Liège',45.3563,-73.732015
 78920,'78920','Principale / Maçonnerie',45.357773,-73.759054
 78921,'78921','Principale / Maçonnerie',45.357533,-73.759307
-1001039,'KAH39A','Catholic Cemetery Road',45.406356,-73.675461
-1001041,'KAH41A','Int 207 / Old Malone Road',45.410749,-73.681339
-1002038,'KAH38B','Route 207 Junction (Sud)',45.40381,-73.672745
-1002049,'KAH49B','Tunnel (Ouest)',45.409121,-73.66153
-1002058,'KAH58B','Office Complex',45.407009,-73.65518
-1002066,'KAH66B','Bank-Post Office',45.410715,-73.663654
-1002083,'KAH83B','Youth Center',45.413277,-73.669771
-1002085,'KAH85B','Kateri Memorial Hospital',45.415989,-73.682503
-1003091,'KAH91C','North End-Blind Lady''s Hill',45.410223,-73.686163
-1003092,'KAH92C','Memorial Iron Cross',45.408016,-73.687331
-1003093,'KAH93C','Peacekeepers Station',45.402293,-73.690633
-1004043,'KAH43D','Hamburger Heaven',45.412266,-73.67685
-1004045,'KAH45D','Fire Hall',45.412645,-73.673641
-1004046,'KAH46D','Kane''s Corner',45.411184,-73.669422
-1004047,'KAH47D','Elleen''s Bakery',45.409799,-73.665332
-1004048,'KAH48D','Tunnel (Est)',45.408944,-73.66272
