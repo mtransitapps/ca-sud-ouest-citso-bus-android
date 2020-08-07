@@ -218,8 +218,8 @@
 78231,'78231','Gilmour / Salaberry Nord',45.376998,-73.749709
 78232,'78232','Sutterlin / Bourdon',45.35098,-73.762352
 78233,'78233','Bourdon / Sutterlin',45.350947,-73.762497
-78234,'78234','Edmour / Notre-Dame Nord',45.381218,-73.767127
-78235,'78235','Vinet Ouest / Edmour',45.383167,-73.76713
+78234,'78234','Notre-Dame Nord / Edmour',45.38109,-73.767277
+78235,'78235','Edmour / Vinet Ouest',45.383316,-73.766887
 78237,'78237','Youville / Duranceau',45.378442,-73.752858
 78239,'78239','Brault / Youville',45.375548,-73.754185
 78242,'78242','Youville / Tougas',45.37082,-73.755578
@@ -430,7 +430,7 @@
 78572,'78572','François-Branchaud / Hébert',45.321443,-73.841111
 78573,'78573','François-Branchaud / Gare',45.322085,-73.839823
 78574,'78574','François-Branchaud / MacDonald',45.324178,-73.835913
-78575,'78575','François-Branchaud / Laurier',45.324692,-73.834533
+78575,'78575','Perreault / François-Branchaud',45.324692,-73.834533
 78586,'78586','St-Laurent / Ste-Catherine',45.315482,-73.87302
 78587,'78587','St-Laurent / St-Louis',45.314821,-73.878479
 78588,'78588','St-Laurent / Beauce',45.316105,-73.871657
