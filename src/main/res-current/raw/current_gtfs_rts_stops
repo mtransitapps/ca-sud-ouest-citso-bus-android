@@ -52,8 +52,8 @@
 78040,'78040','Rameau / Schubert',45.348424,-73.712972
 78041,'78041','Rameau / Astrale',45.349399,-73.719564
 78042,'78042','Rameau / Mozart',45.348977,-73.720436
-78043,'78043','St-Joseph / Anjou',45.358841,-73.727356
-78044,'78044','St-Joseph / Anjou',45.358886,-73.727794
+78043,'78043','Centre Régional De Châteauguay',45.358841,-73.727356
+78044,'78044','Centre Régional De Châteauguay',45.358886,-73.727794
 78045,'78045','St-Jean-Baptiste / Parc Ouest',45.354826,-73.718025
 78046,'78046','St-Jean-Baptiste / Ste-Marguerite',45.355492,-73.717611
 78047,'78047','Primeau / Bergevin',45.347413,-73.753754
@@ -162,7 +162,7 @@
 78157,'78157','Anjou / Verdure',45.36072,-73.735696
 78158,'78158','Anjou / Parent',45.361682,-73.742861
 78160,'78160','Anjou / Devant Le #288',45.358821,-73.718764
-78161,'78161','Verdure / CLSC Châteauguay',45.358018,-73.737167
+78161,'78161','Verdure / Claude-Pitre (CLSC Châteauguay)',45.358822,-73.736715
 78162,'78162','Principale / Wilbrod',45.359983,-73.7493
 78163,'78163','Bernard / Youville',45.379746,-73.753893
 78164,'78164','Robert Ouest / Orchard',45.380789,-73.73871
@@ -442,7 +442,7 @@
 78588,'78588','St-Laurent / Beauce',45.316105,-73.871657
 78589,'78589','Principale / Principale',45.31636,-73.925411
 78590,'78590','Principale / 22e Av.',45.316978,-73.928625
-78591,'78591','Principale / Bourcier',45.317989,-73.93359
+78591,'78591','Principale / Alfred-Haineault',45.317305,-73.932051
 78592,'78592','Principale / Charlebois',45.31823,-73.935172
 78593,'78593','Principale / Oscar-Murphy',45.318197,-73.939746
 78594,'78594','Principale / 21e Av.',45.318181,-73.943085
@@ -541,7 +541,7 @@
 78877,'78877','Notre-Dame Nord / Duranceau',45.376529,-73.761119
 78879,'78879','Girouard / Letendre',45.365122,-73.756699
 78881,'78881','Abbotsford / Centre L''Accore',45.377956,-73.748177
-78885,'78885','Faubourg Châteauguay',45.343544,-73.762741
+78885,'78885','Faubourg Châteauguay (Wal-Mart)',45.343544,-73.762741
 78892,'78892','Alexandre / Monseigneur-Langlois',45.268218,-74.138423
 78893,'78893','Prince / St-Joseph',45.355928,-73.7286
 78896,'78896','Cégep André-Laurendeau',45.435141,-73.605037
@@ -587,3 +587,19 @@
 78950,'78950','Perreault / Laurier',45.323899,-73.833739
 78951,'78951','Canal / 16e Av.',45.312759,-73.949
 78952,'78952','Canal / 16e Av.',45.313222,-73.9491
+1001039,'KAH39A','Catholic Cemetery Road',45.406356,-73.675461
+1001041,'KAH41A','Int 207 / Old Malone Road',45.410749,-73.681339
+1002038,'KAH38B','Route 207 Junction (Sud)',45.40381,-73.672745
+1002049,'KAH49B','Tunnel (Ouest)',45.409121,-73.66153
+1002058,'KAH58B','Office Complex',45.407009,-73.65518
+1002066,'KAH66B','Bank-Post Office',45.410715,-73.663654
+1002083,'KAH83B','Youth Center',45.413277,-73.669771
+1002085,'KAH85B','Kateri Memorial Hospital',45.415989,-73.682503
+1003091,'KAH91C','North End-Blind Lady''s Hill',45.410223,-73.686163
+1003092,'KAH92C','Memorial Iron Cross',45.408016,-73.687331
+1003093,'KAH93C','Peacekeepers Station',45.402293,-73.690633
+1004043,'KAH43D','Hamburger Heaven',45.412266,-73.67685
+1004045,'KAH45D','Fire Hall',45.412645,-73.673641
+1004046,'KAH46D','Kane''s Corner',45.411184,-73.669422
+1004047,'KAH47D','Elleen''s Bakery',45.409799,-73.665332
+1004048,'KAH48D','Tunnel (Est)',45.408944,-73.66272
