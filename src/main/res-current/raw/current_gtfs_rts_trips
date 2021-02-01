@@ -3,15 +3,15 @@
 2000,0,'Est',20
 2001,0,'Ouest',20
 2100,0,'Métro Angrignon',21
-2101,0,'Salaberry Sud - Champlain',21
-2201,0,'Albert-Einstein - De Gaulle - Rameau',22
+2101,0,'Salaberry Sud<>Champlain',21
+2201,0,'Albert-Einstein<>De Gaulle<>Rameau',22
 2200,0,'Métro Angrignon',22
-2301,0,'McLeod - Bourdon - Sutterlin - Primeau',23
+2301,0,'McLeod<>Bourdon<>Sutterlin<>Primeau',23
 2300,0,'Métro Angrignon',23
-2401,0,'Maple - Deguire - D''Youville',24
+2401,0,'Maple<>Deguire<>D''Youville',24
 2400,0,'Métro Angrignon',24
 2500,0,'Métro Angrignon',25
-2501,0,'St-Françis - Salaberry N - N-Dame N',25
+2501,0,'St-Françis<>Salaberry N<>N-Dame N',25
 2600,0,'Métro Angrignon',26
 2701,0,'Higgins / Salaberry',27
 2700,0,'Stat Incitatif Châteauguay',27
@@ -27,4 +27,4 @@
 3300,0,'Faubourg Châteauguay',33
 9001,0,'Châteauguay',90
 9000,0,'Cégep André-Laurendeau',90
-9800,0,'Kahnawake - Métro Angrignon',98
+9800,0,'Kahnawake<>Métro Angrignon',98
