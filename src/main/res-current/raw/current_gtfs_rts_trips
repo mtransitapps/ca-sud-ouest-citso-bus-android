@@ -22,6 +22,17 @@
 3100,0,'Châteauguay<>Métro Angrignon',31
 3200,0,'Châteauguay<>Métro Angrignon',32
 3300,0,'Principale<>Faubourg Châteauguay',33
+9001,0,'Châteauguay',90
+9000,0,'Cégep André-Laurendeau',90
 9800,0,'Kahnawake<>Métro Angrignon',98
 92501,0,'P+R Châteauguay',925
 92500,0,'Île St-Bernard',925
+2000100,0,'Vers Léry / Vers René-Lévesque',20001
+2001900,0,'Vers Boul De Maple-Grove',20019
+2001901,0,'Vers Maple-Grove',20019
+2002000,0,'Vers Beauharnois',20020
+2002201,0,'Vers Ctr Régional De Châteauguay',20022
+2002300,0,'Vers Haute-Riv',20023
+2002500,0,'Vers Châteauguay Ston',20025
+2002700,0,'Vers Ctr Régional De Châteauguay',20027
+2002900,0,'Vers Ind',20029
