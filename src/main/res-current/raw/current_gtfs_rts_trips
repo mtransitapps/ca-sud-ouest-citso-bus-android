@@ -27,12 +27,12 @@
 9800,0,'Kahnawake<>Métro Angrignon',98
 92501,0,'P+R Châteauguay',925
 92500,0,'Île St-Bernard',925
-2000100,0,'Léry / René-Lévesque',20001
-2001901,0,'François-Branchaud / Pte-Bourdon',20019
-2001900,0,'Maple Grove / Couturière',20019
-2002000,0,'Beauharnois / Hôtel De Ville',20020
-2002201,0,'Ctr Régional De Châteauguay / Musiciens',20022
-2002300,0,'Ctr Régional De Châteauguay / Haute-Riv',20023
-2002500,0,'Châteauguay Ston',20025
-2002700,0,'Châteauguay Nord / Ctr Régional De Châteauguay',20027
-2002900,0,'Ind',20029
+2000000100,0,'Léry / René-Lévesque',20000001
+2000001901,0,'François-Branchaud / Pte-Bourdon',20000019
+2000001900,0,'Maple Grove / Couturière',20000019
+2000002000,0,'Beauharnois / Hôtel De Ville',20000020
+2000002201,0,'Ctr Régional De Châteauguay / Musiciens',20000022
+2000002300,0,'Ctr Régional De Châteauguay / Haute-Riv',20000023
+2000002500,0,'Châteauguay Ston',20000025
+2000002700,0,'Châteauguay Nord / Ctr Régional De Châteauguay',20000027
+2000002900,0,'Ind',20000029
