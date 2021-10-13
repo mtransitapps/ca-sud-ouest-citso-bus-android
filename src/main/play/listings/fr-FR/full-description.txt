@@ -1,17 +1,17 @@
 Cette application ajoute les informations des autobus du exo Sud-Ouest à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de rtm.quebec et @exo_SO_HSL sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de exo.quebec et @exo_SO_HSL sur Twitter.
 
 exo Sud-Ouest dessert Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux et Coteau-du-Lac au Québec, Canada.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
-Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play https://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
-https://rtm.quebec/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par exo.
+https://exo.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-sud-ouest-citso-bus-android
@@ -22,4 +22,4 @@ exo Sud-Ouest était précédemment connu sous le nom de RTM Secteur Sud-Ouest e
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de rtm.quebec et Twitter.
+- Autres: requis pour lire les nouvelles de exo.quebec et Twitter.
