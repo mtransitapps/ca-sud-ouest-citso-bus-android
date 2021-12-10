@@ -23,21 +23,21 @@
 78011,'78011','Maple / Dupont Est',45.37816,-73.735597
 78012,'78012','Maple / Dupont Est',45.378357,-73.735736
 78013,'78013','Marcel / Hans-Selye',45.362528,-73.711972
-78014,'78014','Albert-Einstein / Marcel',45.361938,-73.708164
+78014,'78014','Albert-Einstein / Edouard-Branly',45.361938,-73.708164
 78015,'78015','Marcel / Albert-Einstein',45.362,-73.708387
 78016,'78016','Albert-Einstein / Marie-Curie',45.361003,-73.707838
 78017,'78017','Albert-Einstein / Marie-Curie',45.3611,-73.70822
 78018,'78018','Albert-Einstein / Pasteur',45.360266,-73.706677
 78019,'78019','Albert-Einstein / Pasteur',45.360115,-73.707034
-78020,'78020','Albert-Einstein / Pascal',45.358119,-73.701746
-78021,'78021','Albert-Einstein / Franklin',45.359004,-73.70185
+78020,'78020','Albert-Einstein / Franklin',45.358805,-73.701592
+78021,'78021','Albert-Einstein / Franklin',45.359032,-73.701776
 78022,'78022','Primeau / Principale',45.358969,-73.753469
 78023,'78023','Principale / Primeau',45.359112,-73.753436
 78024,'78024','Principale / Primeau',45.35892,-73.753675
 78025,'78025','Albert-Einstein / Bruxelles',45.354413,-73.702509
 78026,'78026','Albert-Einstein / Laramée',45.354614,-73.702776
 78027,'78027','Ste-Marguerite / Léonard',45.353973,-73.703776
-78028,'78028','Albert-Einstein / Léonard',45.35381,-73.704026
+78028,'78028','Ste-Marguerite / Léonard',45.35381,-73.704026
 78029,'78029','Gaulle / Ste-Marguerite',45.354153,-73.706968
 78030,'78030','Ste-Marguerite / Fournier',45.354274,-73.706274
 78031,'78031','Gaulle / Bernard',45.352253,-73.707595
@@ -54,7 +54,7 @@
 78042,'78042','Rameau / Mozart',45.348977,-73.720436
 78043,'78043','Ctr Régional De Châteauguay',45.358841,-73.727356
 78044,'78044','Ctr Régional De Châteauguay',45.358886,-73.727794
-78045,'78045','St-Jean-Baptiste / Parc Ouest',45.354826,-73.718025
+78045,'78045','St-Jean-Baptiste / Parc Ouest',45.354645,-73.718157
 78046,'78046','St-Jean-Baptiste / Ste-Marguerite',45.355492,-73.717611
 78047,'78047','Primeau / Bergevin',45.347413,-73.753754
 78048,'78048','Primeau / Maxime-Raymond',45.348237,-73.753238
@@ -119,8 +119,6 @@
 78107,'78107','Champlain / Paul-Hallé',45.348051,-73.739298
 78108,'78108','Dunver / St-Marc',45.362813,-73.715992
 78109,'78109','Dubé / Salaberry Sud',45.350312,-73.744307
-78110,'78110','Notre-Dame N / St-Bernard',45.377738,-73.76146
-78111,'78111','Notre-Dame N / St-Bernard',45.377621,-73.761782
 78112,'78112','Salaberry Sud / Desparois',45.363313,-73.751329
 78113,'78113','St-Joseph / Sullivan',45.35426,-73.729624
 78114,'78114','St-Joseph / Sullivan',45.354477,-73.729659
@@ -240,7 +238,7 @@
 78239,'78239','Brault / Youville',45.375548,-73.754185
 78242,'78242','Youville / Tougas',45.37082,-73.755578
 78243,'78243','Bourdon / Sutterlin',45.35085,-73.762443
-78245,'78245','Brisebois / Ctr Hospitalier A-Laberge',45.346291,-73.76591
+78245,'78245','Brisebois / Ctr Hospitalier A-Laberge',45.345929,-73.765759
 78246,'78246','Girouard / Youville',45.36565,-73.754878
 78247,'78247','Letendre / Girouard',45.365096,-73.756823
 78248,'78248','Deguire / Carignan',45.362958,-73.75845
@@ -266,7 +264,7 @@
 78269,'78269','Primeau / Paul-VI',45.352072,-73.750931
 78270,'78270','Primeau / Paul-VI',45.352098,-73.751097
 78274,'78274','Route 132 / Route 207',45.402284,-73.672873
-78275,'78275','Route 138 / #1455',45.399543,-73.68314
+78275,'78275','Route 138 / #1025',45.399543,-73.68314
 78282,'78282','Léry / #1018',45.348041,-73.800356
 78283,'78283','Léry / Gare',45.334462,-73.816751
 78284,'78284','Léry / Gare',45.335101,-73.815851
@@ -432,7 +430,7 @@
 78700,'78700','St-Laurent / Richardson',45.315268,-73.876758
 78701,'78701','Melocheville / Hauts-Fourneaux',45.314324,-73.88149
 78702,'78702','Melocheville / Axiall Canada Inc',45.314187,-73.892657
-78714,'78714','Salaberry / Académie (Palais De Justice)',45.253635,-74.126238
+78714,'78714','Salaberry / Académie (Palais De Justice)',45.253366,-74.126914
 78721,'78721','Melocheville / Axiall Canada Inc',45.313946,-73.892665
 78722,'78722','Melocheville / Hauts-Fourneaux',45.314125,-73.883821
 78723,'78723','Maple Grove / Gare',45.319874,-73.836942
@@ -508,7 +506,6 @@
 78937,'78937','Blind Ladies Hill / Old Quarry',45.410285,-73.686139
 78938,'78938','Blind Ladies Hill / Kirby',45.408121,-73.687333
 78939,'78939','Peacekeepers Ston',45.402234,-73.690754
-78941,'78941','Youville / Mairie',45.360895,-73.74981
 78943,'78943','Laurier / Poissant',45.321642,-73.835896
 78944,'78944','Reid / Maple Grove',45.320536,-73.836269
 78950,'78950','Perreault / Laurier',45.323899,-73.833739
