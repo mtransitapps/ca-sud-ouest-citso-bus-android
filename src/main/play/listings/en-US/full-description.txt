@@ -1,6 +1,6 @@
 This application adds exo Sud-Ouest buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from exo.quebec and @exo_SO_HSL on Twitter.
+This app contains the buses schedule and the latest news from exo.quebec and @exo_Sud on Twitter.
 
 exo serves Kahnawake, Châteauguay, Léry, Beauharnois, Salaberry-de-Valleyfield, Saint-Zotique, Les Coteaux and Coteau-du-Lac in Québec, Canada.
 
