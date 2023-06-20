@@ -1,5 +1,5 @@
-101,0,'Beauharnois',1
-100,0,'Montréal',1
+100,0,'Term Angrignon',1
+101,0,'Term Salaberry-De-Valleyfield',1
 2000,0,'Maple Grove',20
 2001,0,'Melocheville',20
 2100,0,'Métro Angrignon',21
@@ -24,7 +24,7 @@
 3300,0,'Principale<>Faubourg Châteauguay',33
 9001,0,'Châteauguay',90
 9000,0,'Cégep André-Laurendeau',90
-9800,0,'Kahnawake<>Métro Angrignon',98
+9800,0,'Métro Angrignon<>Kahnawake',98
 2000000100,0,'Léry / René-Lévesque',20000001
 2000001901,0,'François-Branchaud / Pte-Bourdon',20000019
 2000001900,0,'Maple Grove / Couturière',20000019
