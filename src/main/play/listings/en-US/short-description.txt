@@ -1,1 +1,1 @@
-exo Sud-Ouest buses for MonTransit. Schedules. News.
+exo Sud-Ouest buses for MonTransit. Schedule. Service Status. News.

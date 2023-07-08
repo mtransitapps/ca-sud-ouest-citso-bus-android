@@ -3,6 +3,7 @@
     <domain-config>
         <domain includeSubdomains="true">exo.quebec</domain>
         <trust-anchors>
+            <!--  openssl s_client -connect exo.quebec:443 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > src/main/res/raw/rss_custom_ssl_certificate -->
             <certificates src="@raw/rss_custom_ssl_certificate" />
         </trust-anchors>
     </domain-config>

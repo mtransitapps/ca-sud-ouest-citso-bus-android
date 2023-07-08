@@ -43,6 +43,20 @@
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
         </provider>
+        <!-- GTFS REAL TIME PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.GTFSRealTimeProvider"
+            android:authorities="@string/gtfs_real_time_authority"
+            android:exported="true"
+            android:readPermission="${permission_provider_read}"
+            tools:ignore="MissingRegistered">
+            <meta-data
+                android:name="@string/service_update_provider"
+                android:value="@string/service_update_provider" />
+            <meta-data
+                android:name="@string/service_update_provider_target"
+                android:value="@string/gtfs_real_time_for_poi_authority" />
+        </provider>
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
@@ -70,6 +84,20 @@
             <meta-data
                 android:name="@string/news_provider_target"
                 android:value="@string/rss_target_for_poi_authority" />
+        </provider>
+        <!-- YOUTUBE NEWS PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.YouTubeNewsProvider"
+            android:authorities="@string/youtube_authority"
+            android:exported="true"
+            android:readPermission="${permission_provider_read}"
+            tools:ignore="MissingRegistered">
+            <meta-data
+                android:name="@string/news_provider"
+                android:value="@string/news_provider" />
+            <meta-data
+                android:name="@string/news_provider_target"
+                android:value="@string/youtube_target_for_poi_authority" />
         </provider>
     </application>
 </manifest>
