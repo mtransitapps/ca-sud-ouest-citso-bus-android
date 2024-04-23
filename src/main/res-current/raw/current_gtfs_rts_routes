@@ -1,14 +1,14 @@
 1,'1','Valleyfield - Beauharnois - Châteauguay - Montréal','',49,3
 20,'20','Beauharnois','',1598,3
 21,'21','Châteauguay - Montréal','',1599,3
-22,'22','Châteauguay - Montréal','',1600,3
+22,'22','Châteauguay','',1600,3
 23,'23','Châteauguay - Montréal','',1601,3
-24,'24','Châteauguay - Montréal','',1602,3
+24,'24','Châteauguay','',1602,3
 25,'25','Châteauguay - Montréal','',1603,3
 26,'26','Châteauguay - Montréal','',1604,3
 27,'27','Châteauguay','',1605,3
 28,'28','Châteauguay - Montréal (Centre-Ville)','',1606,3
-29,'29','Châteauguay - Montréal','',1607,3
+29,'29','Châteauguay','',1607,3
 31,'31','Châteauguay - Montréal','',1630,3
 32,'32','Châteauguay - Montréal','',1631,3
 33,'33','Châteauguay','',1632,3
@@ -17,8 +17,8 @@
 20000001,'T-1','Léry','',82168,1501
 20000019,'T-19','Maple-Grove','',2547265,1501
 20000020,'T-20','Beauharnois','',2547287,1501
-20000022,'T-22','Des Musiciens','',2547289,1501
+20000022,'T-22','Terminus Châteauguay - Des Musiciens','',2547289,1501
 20000023,'T-23','Haute-Rivière','',2547290,1501
 20000025,'T-25','Châteauguay Station','',2547292,1501
-20000027,'T-27','Châteauguay Nord','',2547294,1501
-20000029,'T-29','Industriel','',2547296,1501
+20000027,'T-27','Terminus Châteauguay - Châteauguay Nord','',2547294,1501
+20000029,'T-29','Terminus Châteauguay - Industriel','',2547296,1501
