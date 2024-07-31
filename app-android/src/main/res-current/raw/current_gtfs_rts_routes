@@ -13,11 +13,11 @@
 32,'32','Châteauguay - Montréal','',1631,3
 33,'33','Châteauguay','',1632,3
 98,'98','Kahnawake - Montréal','',1823,3
-20000001,'T-1','Léry','',82168,1501
-20000019,'T-19','Maple-Grove','',2547265,1501
-20000020,'T-20','Beauharnois','',2547287,1501
-20000022,'T-22','Des Musiciens','',2547289,1501
-20000023,'T-23','Haute-Rivière','',2547290,1501
-20000025,'T-25','Châteauguay Station','',2547292,1501
-20000027,'T-27','Châteauguay Nord','',2547294,1501
-20000029,'T-29','Industriel','',2547296,1501
+20000001,'T-1','Taxi Collectif - Léry','',82168,1501
+20000019,'T-19','Taxi Collectif - Maple-Grove','',2547265,1501
+20000020,'T-20','Taxi Collectif - Beauharnois','',2547287,1501
+20000022,'T-22','Taxi Collectif - Des Musiciens','',2547289,1501
+20000023,'T-23','Taxi Collectif - Haute-Rivière','',2547290,1501
+20000025,'T-25','Taxi Collectif - Châteauguay Station','',2547292,1501
+20000027,'T-27','Taxi Collectif - Châteauguay Nord','',2547294,1501
+20000029,'T-29','Taxi Collectif - Industriel','',2547296,1501
