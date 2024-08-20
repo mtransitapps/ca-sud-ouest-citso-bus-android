@@ -21,13 +21,19 @@
 3100,0,'Châteauguay<>Métro Angrignon',31
 3200,0,'Châteauguay<>Métro Angrignon',32
 3300,0,'Principale<> Term Châteauguay',33
+9001,0,'Châteauguay',90
+9000,0,'Cégep André-Laurendeau',90
 9800,0,'Métro Angrignon<>Kahnawake',98
 2000000100,0,'Léry / René-Lévesque',20000001
 2000001901,0,'François-Branchaud / Pte-Bourdon',20000019
 2000001900,0,'Maple Grove / Couturière',20000019
-2000002000,0,'Hôtel De Ville',20000020
+2000002000,0,'Beauharnois / Hôtel De Ville',20000020
+2000002200,0,'Ctr Régional De Châteauguay',20000022
 2000002201,0,'Musiciens',20000022
 2000002300,0,'Ctr Régional De Châteauguay',20000023
-2000002500,0,'Ctr Régional De Châteauguay',20000025
-2000002700,0,'Term Châteauguay',20000027
+2000002301,0,'Haute-Riv',20000023
+2000002500,0,'Châteauguay Ston',20000025
+2000002501,0,'Ctr Régional De Châteauguay',20000025
+2000002700,0,'Châteauguay Nord',20000027
+2000002701,0,'Term Châteauguay',20000027
 2000002900,0,'Ind',20000029
