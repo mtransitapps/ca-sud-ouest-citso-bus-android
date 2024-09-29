@@ -8,6 +8,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Cleaner;
 import org.mtransit.commons.RegexUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
@@ -78,12 +79,12 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 		return gRoute.getRouteShortName(); // used by GTFS-RT
 	}
 
-	private static final Pattern T_DASH_ = Pattern.compile("(t(-))", Pattern.CASE_INSENSITIVE);
+	private static final Cleaner T_DASH_ = new Cleaner("(^t(-))", "T", true);
 
 	@NotNull
 	@Override
 	public String cleanRouteShortName(@NotNull String routeShortName) {
-		routeShortName = T_DASH_.matcher(routeShortName).replaceAll("T");
+		routeShortName = T_DASH_.clean(routeShortName);
 		return super.cleanRouteShortName(routeShortName);
 	}
 
@@ -108,7 +109,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 	private static final String EXPRESS_REPLACEMENT = CleanUtils.cleanWordsReplacement(EMPTY);
 
 	private static final Pattern _DASH_ = Pattern.compile("( - )");
-	private static final String _DASH_REPLACEMENT = "<>"; // form<>to
+	private static final String _DASH_REPLACEMENT = "<>"; // form<>to // save 1 ' ' character
 
 	@NotNull
 	@Override
@@ -165,7 +166,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		String stopCode = getStopCode(gStop);
-		if (stopCode.length() > 0 && CharUtils.isDigitsOnly(stopCode)) {
+		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
 		//noinspection deprecation
