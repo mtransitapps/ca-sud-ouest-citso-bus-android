@@ -1,26 +1,26 @@
-1,'1','Valleyfield - Beauharnois - Châteauguay - Montréal','',49,3
-20,'20','Beauharnois','',1598,3
-21,'21','Châteauguay - Montréal','',1599,3
-22,'22','Châteauguay','',1600,3
-23,'23','Châteauguay - Montréal','',1601,3
-24,'24','Châteauguay','',1602,3
-25,'25','Châteauguay - Montréal','',1603,3
-26,'26','Châteauguay - Montréal','',1604,3
-27,'27','Châteauguay','',1605,3
-28,'28','Châteauguay - Montréal (Centre-Ville)','',1606,3
-29,'29','Châteauguay','',1607,3
-31,'31','Châteauguay - Montréal','',1630,3
-32,'32','Châteauguay - Montréal','',1631,3
-33,'33','Châteauguay','',1632,3
-90,'90','Cégep André-Laurendeau','',1815,3
-98,'98','Kahnawake - Montréal','',1823,3
-111,'111','Haut-St-Laurent','',48657,3
-140,'140','Mercier - Châteauguay - Mercier','',48749,3
-20000001,'T-1','Taxi Collectif - Léry','',82168,1501
-20000019,'T-19','Taxi Collectif - Maple-Grove','',2547265,1501
-20000020,'T-20','Taxi Collectif - Beauharnois','',2547287,1501
-20000022,'T-22','Taxi Collectif - Des Musiciens','',2547289,1501
-20000023,'T-23','Taxi Collectif - Haute-Rivière','',2547290,1501
-20000025,'T-25','Taxi Collectif - Châteauguay Station','',2547292,1501
-20000027,'T-27','Taxi Collectif - Châteauguay Nord','',2547294,1501
-20000029,'T-29','Taxi Collectif - Industriel','',2547296,1501
+1,'1','Valleyfield - Beauharnois - Châteauguay - Montréal','1F1F1F',49,3
+20,'20','Beauharnois','1F1F1F',1598,3
+21,'21','Châteauguay - Montréal','1F1F1F',1599,3
+22,'22','Châteauguay','1F1F1F',1600,3
+23,'23','Châteauguay - Montréal','1F1F1F',1601,3
+24,'24','Châteauguay','1F1F1F',1602,3
+25,'25','Châteauguay - Montréal','1F1F1F',1603,3
+26,'26','Châteauguay - Montréal','1F1F1F',1604,3
+27,'27','Châteauguay','1F1F1F',1605,3
+28,'28','Châteauguay - Montréal (Centre-Ville)','1F1F1F',1606,3
+29,'29','Châteauguay','1F1F1F',1607,3
+31,'31','Châteauguay - Montréal','1F1F1F',1630,3
+32,'32','Châteauguay - Montréal','1F1F1F',1631,3
+33,'33','Châteauguay','1F1F1F',1632,3
+90,'90','Cégep André-Laurendeau','1F1F1F',1815,3
+98,'98','Kahnawake - Montréal','1F1F1F',1823,3
+111,'111','Haut-St-Laurent','1F1F1F',48657,3
+140,'140','Mercier - Châteauguay - Mercier','1F1F1F',48749,3
+20000001,'T-1','Taxi Collectif - Léry','1F1F1F',82168,1501
+20000019,'T-19','Taxi Collectif - Maple-Grove','1F1F1F',2547265,1501
+20000020,'T-20','Taxi Collectif - Beauharnois','1F1F1F',2547287,1501
+20000022,'T-22','Taxi Collectif - Des Musiciens','1F1F1F',2547289,1501
+20000023,'T-23','Taxi Collectif - Haute-Rivière','1F1F1F',2547290,1501
+20000025,'T-25','Taxi Collectif - Châteauguay Station','1F1F1F',2547292,1501
+20000027,'T-27','Taxi Collectif - Châteauguay Nord','1F1F1F',2547294,1501
+20000029,'T-29','Taxi Collectif - Industriel','1F1F1F',2547296,1501
