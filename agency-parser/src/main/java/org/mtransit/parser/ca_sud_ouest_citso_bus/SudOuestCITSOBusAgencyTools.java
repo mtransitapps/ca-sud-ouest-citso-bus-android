@@ -34,11 +34,6 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 		return LANG_FR;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -60,7 +55,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String cleanRouteLongName(@NotNull String routeLongName) {
 		routeLongName = CleanUtils.SAINT.matcher(routeLongName).replaceAll(CleanUtils.SAINT_REPLACEMENT);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -105,6 +100,16 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
+	@Override
+	public boolean directionFinderEnabled(long routeId, @NotNull GRoute gRoute) {
+		if (routeId == 111L) {
+			if (getTodayDateInt() < 2025_12_23 + 33) {
+				return false;
+			}
+		}
+		return super.directionFinderEnabled(routeId, gRoute);
+	}
+
 	private static final Pattern EXPRESS_ = CleanUtils.cleanWords("express");
 	private static final String EXPRESS_REPLACEMENT = CleanUtils.cleanWordsReplacement(EMPTY);
 
@@ -133,6 +138,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 
 	private static final Pattern[] SPACE_FACES = new Pattern[]{SPACE_FACE_A, SPACE_WITH_FACE_AU, SPACE_WITH_FACE};
 
+	@SuppressWarnings("SpellCheckingInspection")
 	private static final Pattern DEVANT_ = CleanUtils.cleanWordsFR("devant");
 
 	@NotNull
@@ -159,7 +165,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 		if (ZERO.equals(gStop.getStopCode())) {
 			return EMPTY;
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // used by GTFS-RT
 	}
 
@@ -169,7 +175,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId1 = gStop.getStopId();
 		final Matcher matcher = DIGITS.matcher(stopId1);
 		if (matcher.find()) {
