@@ -103,7 +103,7 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean directionFinderEnabled(long routeId, @NotNull GRoute gRoute) {
 		if (routeId == 111L) {
-			if (getTodayDateInt() < 2025_12_23 + 33) {
+			if (getTodayDateInt() < 2026_01_23 + 33) {
 				return false;
 			}
 		}
