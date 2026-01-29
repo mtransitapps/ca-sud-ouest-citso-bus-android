@@ -47,6 +47,16 @@ public class SudOuestCITSOBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "SO\\-\\w{1}\\d{2}\\-(SO_GTFS)\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^SO\\-\\w{1}\\d{2}\\-(SO_GTFS)\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
+	}
+
+	@Override
 	public boolean defaultRouteLongNameEnabled() {
 		return true;
 	}
