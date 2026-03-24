@@ -40,5 +40,5 @@
         }
     ],
     "use_stop_id_for_stop_code": true,
-    "use_stop_code_for_stop_id:": true
+    "use_stop_code_for_stop_id": true
 }
