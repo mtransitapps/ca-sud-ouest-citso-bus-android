@@ -3,7 +3,7 @@
 2000,0,'Maple Grove',20
 2001,0,'Melocheville',20
 2100,0,'Métro Angrignon',21
-2101,0,'Salaberry Sud<>Champlain',21
+2101,0,'Salaberry S<>Champlain',21
 2200,0,'Albert-Einstein<>De Gaulle<>Rameau',22
 2201,0,'Marcel<>Albert-Einstein',22
 2301,0,'McLeod<>Bourdon<>Sutterlin<>Primeau',23
@@ -36,6 +36,6 @@
 2000002300,0,'Ctr Régional De Châteauguay',20000023
 2000002301,0,'Haute-Riv',20000023
 2000002500,0,'Châteauguay Ston',20000025
-2000002700,0,'Châteauguay Nord',20000027
+2000002700,0,'Châteauguay N',20000027
 2000002701,0,'Term Châteauguay',20000027
 2000002900,0,'Ind',20000029
