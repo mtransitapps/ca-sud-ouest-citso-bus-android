@@ -21,11 +21,9 @@
 3100,0,'Châteauguay<>Term Angrignon',31
 3200,0,'Châteauguay<>Term Angrignon',32
 3300,0,'Principale<> Term Châteauguay',33
-9001,0,'Châteauguay',90
-9000,0,'Cégep André-Laurendeau',90
 9800,0,'Term Angrignon<>Kahnawake',98
-11100,0,'Cégep André-Laurendeau/Term Ctr-Ville',111
 11101,0,'Mercier<>Sainte-Martine',111
+11100,0,'Term Angrignon<>Ctr-Ville/Term Ctr-Ville',111
 14001,0,'Mercier',140
 2000000100,0,'Léry/René-Lévesque',20000001
 2000001901,0,'François-Branchaud/Croissant Théorêt',20000019
